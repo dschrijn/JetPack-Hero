@@ -16,5 +16,5 @@ Link to [App Store.](https://itunes.apple.com/us/app/jetpackhero-a-game-for-all-
 
 Swift, Xcode, SpriteKit, GameplayKit, Photoshop, Sketch
 
-## Developed By: David Schrijn
-## Game Art Design By: Sean Chen
+Developed By: David Schrijn
+Game Art Design By: Sean Chen
